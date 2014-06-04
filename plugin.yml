@@ -1,0 +1,11 @@
+name: DenmarkSignScan
+main: com.comze_instancelabs.signscan.Main
+version: 1.0.1
+author: instancelabs
+commands:
+   scan:
+      description: Main command
+      usage: /scan
+   scantest:
+      description: Main command
+      usage: /scantest
